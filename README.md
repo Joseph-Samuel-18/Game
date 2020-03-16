@@ -1,14 +1,13 @@
 # Game
-Work in progress
+## Developers:
+- Chinmunlal Nunthuk
 
-Members:
+- Kevin Paulson
 
-darkslade9
+- Joseph Samuel
 
-Rishab Nair
+- Joseph Moses
 
-Joseph Sam: https://github.com/Joseph-Samuel-18
+- Rishabh Nair
 
-JoeyTheMaverick
-
-Kevin Paulson
+>Work in progress!
